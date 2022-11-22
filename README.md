@@ -1,16 +1,57 @@
 # zartek_machine
 
-A new Flutter project.
+## Download Apks
 
-## Getting Started
+apks for diffrent platforms
 
-This project is a starting point for a Flutter application.
+* [apk](https://drive.google.com/file/d/1VrSTOIH4AWLYRS7pno9wLZSHNcl-9P0U/view?usp=sharing)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## How to Use 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Step 1:
+
+Download or clone this repo by using the link below:
+
+```
+https://github.com/VISHNUSANKARPV/machinetest_zertek
+```
+
+Step 2:
+
+
+Go to project root and execute the following command in console to get the required dependencies: 
+
+```
+flutter pub get 
+```
+
+ Step 3:
+
+For run the project : 
+
+```
+flutter run 
+```
+
+
+## Followed Architecture
+
+MVVM
+
+## Followed StateManagement
+
+Provider
+
+## Libraries & Tools Used 
+
+* [provider](https://pub.dev/packages/provider)
+* [dio](https://pub.dev/packages/dio)
+* [firebase_auth](https://pub.dev/packages/firebase_auth)
+* [badges](https://pub.dev/packages/badges)
+* [cached_network_image](https://pub.dev/packages/cached_network_image)
+* [flutter_screenutil](https://pub.dev/packages/flutter_screenutil)
+* [firebase_core](https://pub.dev/packages/firebase_core)
+* [google_sign_in](https://pub.dev/packages/google_sign_in)
+* [pin_code_fields](https://pub.dev/packages/pin_code_fields)
+
