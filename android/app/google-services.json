@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "519606208218",
+    "project_id": "zartek-machinetest",
+    "storage_bucket": "zartek-machinetest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519606208218:android:22eb65760c7b98f9ecc7e3",
+        "android_client_info": {
+          "package_name": "com.example.zartek_machine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519606208218-68qfiu37prriggpdctiodcbds76rsmt4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR1DRVKLtpsO2V6_tI_QnvVPE_YH5v6oQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519606208218-68qfiu37prriggpdctiodcbds76rsmt4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
